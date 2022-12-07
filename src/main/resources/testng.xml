@@ -12,11 +12,11 @@
 	<test name="UCSC Test Automation Demo Testcases">
 		<classes>
 		
-		    <!--<class name="com.actitime.qa.testcases.LogonPageTest" />-->
+		    <class name="com.actitime.qa.testcases.LogonPageTest" />
 
-			<!--<class name="com.actitime.qa.testcases.HomePageTest">
-				 <methods> <include name="homePageLogoTest" /> </methods> 
-			</class>-->
+			<class name="com.actitime.qa.testcases.HomePageTest">
+			<!-- <methods> <include name="homePageLogoTest" /> </methods> -->	  
+			</class>
 			
 			<class name="com.actitime.qa.testcases.ReportsPageTest" />
 
